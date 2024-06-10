@@ -1,38 +1,140 @@
-.App {
-  text-align: center;
+/*Parallax elements*/
+.bcg-full{
+    position: absolute; 
+    top: 0; 
+    left: 0; 
+    width: 100%; 
+    height: auto; 
+    z-index: -3;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.bcg-head{
+    position: absolute; 
+    top: 0; 
+    left: 0; 
+    width: 100%; 
+    height: auto; 
+    z-index: -2,
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.bcg-stars{
+    position: absolute; 
+    top:0;
+    left: 0; 
+    width: 100%; 
+    height: auto; 
+    z-index: -1; 
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+
+.greenLabel{
+  color:#087677
+}
+.input::placeholder{
+  color:gray;
+}
+.input{
+  color:white;
+  background-color: black;
+  border: 0cap;
+}
+.submitBtn{
+  color: white;
+  background-color: #087677;
+}
+#starIcon:hover{
+  filter: drop-shadow(0 0 5px rgba(253, 195, 0, 1));
+}
+#favIcon:hover{
+  filter: drop-shadow(0 0 5px rgba(255, 80, 173, 1))
+}
+/* 227, 194, 82 */
+
+/*Hero level buttons*/
+.circle {
+  cursor: pointer;
+  transition: filter 0.3s ease-in-out;
+}
+  
+.right-side {
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+}
+
+.center-circle{
+  z-index: 2;
+}
+.circle:hover {
+  filter: drop-shadow(0 0 15px rgba(16, 193, 197, 1));
+}
+
+/*Hero cards*/
+.heroCard {
+  padding: 5%;
+  z-index: 1;
+}
+
+.hero-svg{
+  color: #10C1C5;
+}
+
+.text-white{
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.custom-element {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+  
+.circle-container {
+  display: flex;
+  align-items: center;
+}
+  
+.skillLabel {
+  position: relative; /* Change from relative to absolute */
+  display: flex;
+  top: 23%; /* Adjust this value as needed */
+  color: white;
+  z-index: 1; /* Ensures it stays on top */
+}
+.left-side {
+  position: relative;
+  display: flex;
+  align-items: center;
+  left: 20%;
+  margin-right: 20px; /* Adjust spacing as needed */
+}
+  
+.label {
+  position: absolute;
+  width: 100%; /* Adjust size as needed */
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  z-index: 3;
+  pointer-events: none; /* Prevent label from interfering with clicks */
+}
+  
+.skill-slider-icon{
+  height: 30px;
+  width: 30px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+
+
+.slider{
+ accent-color:#10C1C5;
+ width: 100%;
+ height: .5rem;
+ border-radius: 1rem;
+}
+
+.skill-grid{
+    display: grid;
+    grid-template-columns: repeat(8, 2fr);
+    gap:10px
 }

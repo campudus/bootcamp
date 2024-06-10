@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="79.2724133px" height="81.2719209px" viewBox="0 0 79.2724133 81.2719209" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Buttons/Bubbles/Minus</title>
+    <g id="Buttons/Bubbles/Minus" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M37.4163329,66.4579211 C43.2625888,66.4579211 59.2676488,67.9389957 61.1774798,73.8139998 C61.4614894,72.823439 72.6325819,64.9385894 71.2351736,65.2056136 C59.7849595,67.393581 66.9163329,46.549809 66.9163329,36.9579211 C66.9163329,20.665521 53.708733,7.45792115 37.4163329,7.45792115 C21.1239328,7.45792115 7.91633292,20.665521 7.91633292,36.9579211 C7.91633292,53.2503213 21.1239328,66.4579211 37.4163329,66.4579211 Z" id="Oval-Copy-7" fill="#104C4F" transform="translate(39.6362, 40.636) scale(-1, -1) rotate(-16) translate(-39.6362, -40.636)"></path>
+        <text id="minus" font-family="FontAwesome5Pro-Solid, Font Awesome 5 Pro" font-size="21" font-weight="800" line-spacing="20" letter-spacing="0.375" fill="#FFFFFF">
+            <tspan x="34.2617723" y="51.6808592">-</tspan>
+        </text>
+    </g>
+</svg>

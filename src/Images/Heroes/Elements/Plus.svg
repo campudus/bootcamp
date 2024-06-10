@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="85px" height="81px" viewBox="0 0 85 81" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Buttons/Bubbles/Plus</title>
+    <g id="Buttons/Bubbles/Plus" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M36.9633785,67.4817803 C42.8096344,67.4817803 65.2845395,67.4817803 65.8610338,72.5501584 C65.1436515,71.324568 79.3110009,63.1860059 77.9135926,63.4530301 C66.4633785,65.6409975 66.4633785,47.5736682 66.4633785,37.9817803 C66.4633785,21.6893802 53.2557786,8.48178029 36.9633785,8.48178029 C20.6709784,8.48178029 7.46337852,21.6893802 7.46337852,37.9817803 C7.46337852,54.2741804 20.6709784,67.4817803 36.9633785,67.4817803 Z" id="Oval-Copy-9" fill="#104C4F" transform="translate(42.737, 40.516) scale(-1, 1) rotate(-16) translate(-42.737, -40.516)"></path>
+        <text id="plus" font-family="Font Awesome 5 Pro Solid, Font Awesome 5 Pro" font-size="21" font-weight="800" line-spacing="20" letter-spacing="0.375" fill="#FFFFFF">
+            <tspan x="40.2617723" y="46.6808592">+</tspan>
+        </text>
+    </g>
+</svg>

@@ -1,24 +1,36 @@
-import logo from './logo.svg';
-import './App.css';
 
+import 'bootstrap/dist/css/bootstrap.min.css';
+import BcgParallax from './Modules/BcgParallax'
+import { ParallaxProvider } from 'react-scroll-parallax';
+import HeroCards from './Modules/HeroCards';
+import Logo from './Modules/Logo';
+import Mission from './Modules/Mission';
+import DataForm from './Modules/DataForm';
+import HeroesSkills from './Modules/HeroesSkills/HeroesSkills'
+import './App.css'
+
+//backgroundColor: '#181D22'
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <ParallaxProvider>
+      <div >
+        <BcgParallax />
+        <div style={{position:'relative', zIndex: 1}}>
+          <Logo />
+          <br />
+          <Mission />
+          <br />
+          <HeroCards />
+          <br/>
+          <HeroesSkills/>
+          <br/>
+          <br/>
+          <br/>
+          <DataForm/>
+        </div>
+      </div>
+    </ParallaxProvider>
+    
   );
 }
 

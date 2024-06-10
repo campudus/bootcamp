@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="96px" viewBox="0 0 96 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Buttons/Bubbles/Value</title>
+    <g id="Buttons/Bubbles/Value" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval-Copy-11" fill="#104C4F" cx="48" cy="48" r="48"></circle>
+        <text id="1" font-family="OpenSans-Bold, Open Sans" font-size="32" font-weight="bold" fill="#FFFFFF">
+            <tspan x="37" y="57"></tspan>
+        </text>
+    </g>
+</svg>

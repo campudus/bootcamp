@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="38px" viewBox="0 0 36 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Stars 16</title>
+    <g id="Bootcamp" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.540697674">
+        <g id="Stars-16" transform="translate(0.8659, 0.9801)">
+            <circle id="Oval" fill="#F58327" cx="17" cy="18" r="12"></circle>
+            <ellipse id="Oval" stroke="#F8CC6B" cx="17" cy="18" rx="17" ry="18"></ellipse>
+        </g>
+    </g>
+</svg>

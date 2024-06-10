@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1930px" height="844px" viewBox="0 0 1930 844" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Planets + Stars Group</title>
+    <defs>
+        <circle id="path-1Star" cx="174.5" cy="174.5" r="148.5"></circle>
+        <filter x="-32.3%" y="-31.3%" width="164.6%" height="164.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="31.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.721568627   0 0 0 0 1   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <radialGradient cx="9.91780812%" cy="17.7314927%" fx="9.91780812%" fy="17.7314927%" r="75.169496%" id="radialGradient-3">
+            <stop stop-color="#13AEAF" stop-opacity="0.0188210227" offset="0%"></stop>
+            <stop stop-color="#005252" stop-opacity="0.56870083" offset="100%"></stop>
+        </radialGradient>
+        <polygon id="path-4Star" points="14.9339891 0 12.4499834 11.9019267 0 15 12.4499834 18.0784274 14.9339891 30 17.092933 18.0784274 28.7463481 15.7083688 17.092933 11.9019267"></polygon>
+        <filter x="-76.5%" y="-73.3%" width="253.1%" height="246.7%" filterUnits="objectBoundingBox" id="filter-5">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.0235294118   0 0 0 0 0.533333333   0 0 0 0 0.533333333  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-6Star" points="14.9339891 0 12.4499834 11.9019267 0 15 12.4499834 18.0784274 14.9339891 30 17.092933 18.0784274 28.7463481 15.7083688 17.092933 11.9019267"></polygon>
+        <filter x="-76.5%" y="-73.3%" width="253.1%" height="246.7%" filterUnits="objectBoundingBox" id="filter-7">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.0235294118   0 0 0 0 0.533333333   0 0 0 0 0.533333333  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-8Star" points="14.9339891 0 12.4499834 11.9019267 0 15 12.4499834 18.0784274 14.9339891 30 17.092933 18.0784274 28.7463481 15.7083688 17.092933 11.9019267"></polygon>
+        <filter x="-76.5%" y="-73.3%" width="253.1%" height="246.7%" filterUnits="objectBoundingBox" id="filter-9">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.0235294118   0 0 0 0 0.533333333   0 0 0 0 0.533333333  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-10Star" points="14.9339891 0 12.4499834 11.9019267 0 15 12.4499834 18.0784274 14.9339891 30 17.092933 18.0784274 28.7463481 15.7083688 17.092933 11.9019267"></polygon>
+        <filter x="-76.5%" y="-73.3%" width="253.1%" height="246.7%" filterUnits="objectBoundingBox" id="filter-11">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.0235294118   0 0 0 0 0.533333333   0 0 0 0 0.533333333  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-12Star" points="14.9339891 0 12.4499834 11.9019267 0 15 12.4499834 18.0784274 14.9339891 30 17.092933 18.0784274 28.7463481 15.7083688 17.092933 11.9019267"></polygon>
+        <filter x="-76.5%" y="-73.3%" width="253.1%" height="246.7%" filterUnits="objectBoundingBox" id="filter-13">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.0235294118   0 0 0 0 0.533333333   0 0 0 0 0.533333333  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-14Star" points="14.9339891 0 12.4499834 11.9019267 0 15 12.4499834 18.0784274 14.9339891 30 17.092933 18.0784274 28.7463481 15.7083688 17.092933 11.9019267"></polygon>
+        <filter x="-76.5%" y="-73.3%" width="253.1%" height="246.7%" filterUnits="objectBoundingBox" id="filter-15">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.0235294118   0 0 0 0 0.533333333   0 0 0 0 0.533333333  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <radialGradient cx="9.91780812%" cy="17.7314927%" fx="9.91780812%" fy="17.7314927%" r="97.9110683%" id="radialGradient-16">
+            <stop stop-color="#13AEAF" stop-opacity="0.0188210227" offset="0%"></stop>
+            <stop stop-color="#005252" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Bootcamp" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Planets-+-Stars-Group" transform="translate(37.8659, 0.1891)">
+            <g id="Group-29-Copy" transform="translate(0, 454.6217)">
+                <g id="Oval">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1Star"></use>
+                    <use fill-opacity="0.558402535" fill="#B8FFFF" fill-rule="evenodd" xlink:href="#path-1Star"></use>
+                </g>
+                <circle id="Oval" fill="#068888" opacity="0.540697674" cx="174.5" cy="174.5" r="119.5"></circle>
+                <circle id="Oval" stroke="#46F9F9" cx="174" cy="174" r="174"></circle>
+                <circle id="Oval" fill="url(#radialGradient-3)" cx="174" cy="174" r="120"></circle>
+            </g>
+            <g id="Group-37-Copy" transform="translate(1673, 396)">
+                <circle id="Oval" fill="#068888" opacity="0.540697674" cx="41.5" cy="41.5" r="41.5"></circle>
+                <circle id="Oval" fill="url(#radialGradient-3)" cx="41.5" cy="41.5" r="41.5"></circle>
+                <circle id="Oval" fill="#068888" opacity="0.540697674" cx="52.5" cy="33.5" r="8.5"></circle>
+                <circle id="Oval" fill="#068888" opacity="0.540697674" cx="49.5" cy="56.5" r="8.5"></circle>
+                <circle id="Oval" fill="#068888" opacity="0.540697674" cx="19.5" cy="50.5" r="8.5"></circle>
+                <circle id="Oval" fill="#068888" opacity="0.540697674" cx="23.5" cy="22.5" r="8.5"></circle>
+                <circle id="Oval" fill="#068888" opacity="0.540697674" cx="40" cy="18" r="4"></circle>
+                <circle id="Oval" fill="#068888" opacity="0.540697674" cx="48" cy="7" r="4"></circle>
+                <circle id="Oval" fill="#068888" opacity="0.540697674" cx="57.5" cy="14.5" r="3.5"></circle>
+                <circle id="Oval" fill="#068888" opacity="0.540697674" cx="33.5" cy="8.5" r="3.5"></circle>
+                <circle id="Oval" fill="#068888" opacity="0.540697674" cx="70.5" cy="22.5" r="3.5"></circle>
+                <circle id="Oval" fill="#068888" opacity="0.540697674" cx="70.5" cy="44.5" r="3.5"></circle>
+                <circle id="Oval" fill="#068888" opacity="0.540697674" cx="66.5" cy="62.5" r="3.5"></circle>
+                <circle id="Oval" fill="#068888" opacity="0.540697674" cx="49.5" cy="74.5" r="3.5"></circle>
+                <circle id="Oval" fill="#068888" opacity="0.540697674" cx="37.5" cy="67.5" r="5.5"></circle>
+                <circle id="Oval" fill="#068888" opacity="0.540697674" cx="34" cy="40" r="4"></circle>
+                <circle id="Oval" fill="#068888" opacity="0.540697674" cx="74" cy="35" r="4"></circle>
+                <circle id="Oval" fill="#068888" opacity="0.540697674" cx="11" cy="37" r="4"></circle>
+                <circle id="Oval" fill="#068888" opacity="0.540697674" cx="23" cy="70" r="4"></circle>
+            </g>
+            <g id="Group-34-Copy" transform="translate(1339, 137)" opacity="0.540697674">
+                <ellipse id="Oval" fill="#F58327" cx="17" cy="17" rx="12" ry="11.3333333"></ellipse>
+                <circle id="Oval" stroke="#F8CC6B" cx="17" cy="17" r="17"></circle>
+            </g>
+            <circle id="Oval-Copy" stroke="#FDFDFD" stroke-width="3" opacity="0.540697674" cx="1376.5" cy="338.5" r="8.5"></circle>
+            <g id="Oval-3-Copy" transform="translate(1168, 97)" opacity="0.540697674" stroke="#09B1B2" stroke-width="3">
+                <circle id="Oval" cx="8.5" cy="8.5" r="8.5"></circle>
+            </g>
+            <g id="Oval-2-Copy" transform="translate(606, 71)" opacity="0.540697674" stroke="#09B1B2" stroke-width="3">
+                <circle id="Oval" cx="8.5" cy="8.5" r="8.5"></circle>
+            </g>
+            <g id="Oval-4-Copy" transform="translate(1760, 166)" opacity="0.540697674" stroke="#09B1B2" stroke-width="3">
+                <circle id="Oval" cx="8.5" cy="8.5" r="8.5"></circle>
+            </g>
+            <g id="star-3-copy" transform="translate(713.5829, 207.0182)" fill="#719A9D" stroke="#719A9D" stroke-linejoin="round" stroke-width="2">
+                <polygon id="star" points="14.9339891 0 12.4499834 11.9019267 0 15 12.4499834 18.0784274 14.9339891 30 17.092933 18.0784274 28.7463481 15.7083688 17.092933 11.9019267"></polygon>
+            </g>
+            <g id="star-5-copy" transform="translate(1466.5829, 360.0182)" stroke-linejoin="round">
+                <g id="star">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4Star"></use>
+                    <use stroke="#B11266" stroke-width="2" fill="#B11266" fill-rule="evenodd" xlink:href="#path-4Star"></use>
+                </g>
+            </g>
+            <g id="star-4-copy" transform="translate(1495.5829, 173.0182)" stroke-linejoin="round">
+                <g id="star">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-6Star"></use>
+                    <use stroke="#719A9D" stroke-width="2" fill="#719A9D" fill-rule="evenodd" xlink:href="#path-6Star"></use>
+                </g>
+            </g>
+            <g id="star-2-copy" transform="translate(562.5829, 341.0182)" stroke-linejoin="round">
+                <g id="star">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-9)" xlink:href="#path-8Star"></use>
+                    <use stroke="#719A9D" stroke-width="2" fill="#719A9D" fill-rule="evenodd" xlink:href="#path-8Star"></use>
+                </g>
+            </g>
+            <g id="Star-2-Copy" transform="translate(659.5829, 64.0182)" stroke-linejoin="round">
+                <g id="Star">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-11)" xlink:href="#path-10Star"></use>
+                    <use stroke="#719A9D" stroke-width="2" fill="#719A9D" fill-rule="evenodd" xlink:href="#path-10Star"></use>
+                </g>
+            </g>
+            <g id="Path-13-Copy" transform="translate(1731.5829, 300.0182)" stroke-linejoin="round">
+                <g id="Path-2">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-13)" xlink:href="#path-12Star"></use>
+                    <use stroke="#719A9D" stroke-width="2" fill="#719A9D" fill-rule="evenodd" xlink:href="#path-12Star"></use>
+                </g>
+            </g>
+            <g id="Path-14-Copy" transform="translate(1795.5829, 584.0182)" stroke-linejoin="round">
+                <g id="Path-2">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-15)" xlink:href="#path-14Star"></use>
+                    <use stroke="#719A9D" stroke-width="2" fill="#719A9D" fill-rule="evenodd" xlink:href="#path-14Star"></use>
+                </g>
+            </g>
+            <g id="Group-33-Copy" transform="translate(201, 360)" opacity="0.540697674">
+                <ellipse id="Oval" fill="#F58327" cx="17" cy="17" rx="12" ry="11.3333333"></ellipse>
+                <circle id="Oval" stroke="#F8CC6B" cx="17" cy="17" r="17"></circle>
+            </g>
+            <g id="Group-35-Copy" transform="translate(1673, 76)" opacity="0.540697674">
+                <circle id="Oval" fill="#F58327" cx="17" cy="18" r="12"></circle>
+                <ellipse id="Oval" stroke="#F8CC6B" cx="17" cy="18" rx="17" ry="18"></ellipse>
+            </g>
+            <g id="Group-30-Copy" transform="translate(340, 125)" fill="#B11266" opacity="0.540697674">
+                <circle id="Oval" cx="17" cy="18" r="12"></circle>
+                <ellipse id="Oval" stroke="#B11266" cx="17" cy="18" rx="17" ry="18"></ellipse>
+            </g>
+            <g id="Group-36-Copy" transform="translate(1857, 228)" fill="#B11266" opacity="0.540697674">
+                <circle id="Oval" cx="17" cy="18" r="12"></circle>
+                <ellipse id="Oval" stroke="#B11266" cx="17" cy="18" rx="17" ry="18"></ellipse>
+            </g>
+            <g id="Group-32-Copy" transform="translate(63, 0)">
+                <circle id="Oval" fill="#068888" opacity="0.540697674" cx="77.5" cy="77.5" r="77.5"></circle>
+                <circle id="Oval" fill="url(#radialGradient-16)" cx="77.5" cy="77.5" r="77.5"></circle>
+                <circle id="Oval" fill="#068888" opacity="0.540697674" cx="98" cy="63" r="16"></circle>
+                <circle id="Oval" fill="#068888" opacity="0.540697674" cx="92" cy="106" r="16"></circle>
+                <circle id="Oval" fill="#068888" opacity="0.540697674" cx="36" cy="94" r="16"></circle>
+                <circle id="Oval" fill="#068888" opacity="0.540697674" cx="44" cy="42" r="16"></circle>
+                <circle id="Oval" fill="#068888" opacity="0.540697674" cx="74.5" cy="33.5" r="7.5"></circle>
+                <circle id="Oval" fill="#068888" opacity="0.540697674" cx="89.5" cy="13.5" r="7.5"></circle>
+                <circle id="Oval" fill="#068888" opacity="0.540697674" cx="107.5" cy="27.5" r="6.5"></circle>
+                <circle id="Oval" fill="#068888" opacity="0.540697674" cx="62.5" cy="15.5" r="6.5"></circle>
+                <circle id="Oval" fill="#068888" opacity="0.540697674" cx="131.5" cy="42.5" r="6.5"></circle>
+                <circle id="Oval" fill="#068888" opacity="0.540697674" cx="131.5" cy="83.5" r="6.5"></circle>
+                <circle id="Oval" fill="#068888" opacity="0.540697674" cx="124.5" cy="116.5" r="6.5"></circle>
+                <circle id="Oval" fill="#068888" opacity="0.540697674" cx="92.5" cy="139.5" r="6.5"></circle>
+                <circle id="Oval" fill="#068888" opacity="0.540697674" cx="70.5" cy="126.5" r="10.5"></circle>
+                <circle id="Oval" fill="#068888" opacity="0.540697674" cx="63.5" cy="74.5" r="7.5"></circle>
+                <circle id="Oval" fill="#068888" opacity="0.540697674" cx="138.5" cy="65.5" r="7.5"></circle>
+                <circle id="Oval" fill="#068888" opacity="0.540697674" cx="42.5" cy="130.5" r="7.5"></circle>
+            </g>
+            <g id="Group-31-Copy" transform="translate(258, 0)">
+                <circle id="Oval" fill-opacity="0.558402535" fill="#B8FFFF" cx="41" cy="41" r="41"></circle>
+                <circle id="Oval" fill="#068888" opacity="0.540697674" cx="41" cy="41" r="33"></circle>
+                <circle id="Oval" fill="url(#radialGradient-3)" cx="41" cy="41" r="33"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
